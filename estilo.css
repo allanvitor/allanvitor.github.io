@@ -1,0 +1,38 @@
+body{
+    background-color: whitesmoke;
+}
+
+p{
+    color: blue;
+    text-align: left;
+}
+
+img{
+    aling: center;
+    width: 250px;
+    height: 250px;
+}
+
+h1{
+    text-align: left;
+}
+
+li{
+    color: blue;
+}
+
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: rgb(243, 13, 155);
+}
+
+a:active{
+    color: #00f;
+}
